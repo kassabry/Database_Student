@@ -8,5 +8,5 @@ Overall not a difficult assignment, took me a few errors to figure out the ?'s i
 
 References:
 https://www.sqlitetutorial.net/sqlite-order-by/
-sqlitetutorial.net/sqlite-python/update/
+https://www.sqlitetutorial.net/sqlite-python/update/
 https://www.sqlitetutorial.net/sqlite-python/sqlite-python-select/
